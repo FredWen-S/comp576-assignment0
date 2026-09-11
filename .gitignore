@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.bat
+*.ps1
+*.log
+diag.txt
+step*_done.txt
